@@ -1,2 +1,2 @@
 # OCEANUS-ROV
-The OCEANUS ROV: Exploring the Unseen - The Power of Discovery
+The OCEANUS ROV: Exploring the Unseen - Unleash The Power of Discovery
